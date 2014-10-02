@@ -1,0 +1,14 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F87K22 -DL -O11111114 -fo48 -N"C:\Users\Bill Gates\school\ee5100-advanced-electronics\touchscreen\smartglcd_examples\SmartGLCD 240x128 Examples\Examples HW rev 1.51\SmartGLCD 240x128 - mikroC PRO for PIC Examples\Drawing\SmartGLCD.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Bill Gates\school\ee5100-advanced-electronics\touchscreen\smartglcd_examples\SmartGLCD 240x128 Examples\Examples HW rev 1.51\SmartGLCD 240x128 - mikroC PRO for PIC Examples\Drawing\" "SmartGLCD.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CStdlib.mcl" "__Lib_Trigonometry.mcl" "__Lib_ADC_K22.mcl" "__Lib_T6963C.mcl" "__Lib_TouchPanel.mcl"	 
+hint: 0	1139	Available RAM: 3841 [bytes], Available ROM: 131072 [bytes]	 
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 172	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	126	All files Preprocessed in 31 ms	 
+diagnostics: 0	122	Compilation Started	__t6963c.h
+diagnostics: 228	123	Compiled Successfully	SmartGLCD.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 197 (5%)  Free RAM (bytes): 3644 (95%)	Used RAM (bytes): 197 (5%)  Free RAM (bytes): 3644 (95%)
+hint: 0	1144	Used ROM (bytes): 6076 (5%)  Free ROM (bytes): 124996 (95%)	Used ROM (bytes): 6076 (5%)  Free ROM (bytes): 124996 (95%)
+diagnostics: 0	125	Project Linked Successfully	SmartGLCD.mcppi
+diagnostics: 0	128	Linked in 78 ms	 
+diagnostics: 0	129	Project 'SmartGLCD.mcppi' completed: 452 ms	 
+diagnostics: 0	103	Finished successfully: 28 Sep 2014, 22:17:04	SmartGLCD.mcppi

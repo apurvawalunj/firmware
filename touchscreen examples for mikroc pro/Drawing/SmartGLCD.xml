@@ -1,0 +1,13 @@
+<SmartGLCD>
+	<Attributes>
+		<Url></Url>
+		<Image>smart_glcd.jpg</Image>
+		<File></File>
+	</Attributes>
+	<Events>
+		<OnLeftClick></OnLeftClick>
+		<OnRightClick></OnRightClick>
+		<OnDblClick></OnDblClick>
+		<OnMouseOver>PreviewImage</OnMouseOver>
+	</Events>
+</SmartGLCD>

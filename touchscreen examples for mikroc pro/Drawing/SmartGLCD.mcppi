@@ -1,0 +1,61 @@
+[DEVICE]
+Name=P18F87K22
+Clock=48000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=SmartGLCD.c
+[USE_EEPROM]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[FILES]
+Count=1
+File0=SmartGLCD.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=1
+File0=smart_glcd.jpg
+ActiveImageIndex=0
+[OPENED_FILES]
+Count=1
+File0=SmartGLCD.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=1
+File0=SmartGLCD.xml
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=3
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\
+Path2=C:\Users\Bill Gates\school\ee5100-advanced-electronics\touchscreen\smartglcd_examples\SmartGLCD 240x128 Examples\Examples HW rev 1.51\SmartGLCD 240x128 - mikroC PRO for PIC Examples\Drawing\
+[HEADER_PATH]
+Count=0
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+Count=6
+File0=ADC
+File1=C_Stdlib
+File2=C_Type
+File3=Trigonometry
+File4=T6963C
+File5=TouchPanel
+[EXPANDED NODES]
+Node1=Sources
+Node2=Image Files
+Node3=Active Comments Files
+Node4=Output Files
+Count=4
